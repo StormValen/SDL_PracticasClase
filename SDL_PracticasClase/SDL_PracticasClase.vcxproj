@@ -112,6 +112,9 @@
   <ItemGroup>
     <ClInclude Include="ValentinGutierrez_Actividad8.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PruebaAgenda.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
